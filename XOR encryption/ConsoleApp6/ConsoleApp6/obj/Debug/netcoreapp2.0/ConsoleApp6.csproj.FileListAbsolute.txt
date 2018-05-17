@@ -1,0 +1,11 @@
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.0\ConsoleApp6.deps.json
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.0\ConsoleApp6.runtimeconfig.json
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.0\ConsoleApp6.runtimeconfig.dev.json
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.0\ConsoleApp6.dll
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.0\ConsoleApp6.pdb
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.0\ConsoleApp6.csprojResolveAssemblyReference.cache
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.0\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.0\ConsoleApp6.AssemblyInfo.cs
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.0\ConsoleApp6.dll
+C:\Users\Sebastiaan\Documents\Visual Studio 2017\Projects\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.0\ConsoleApp6.pdb
